@@ -1,1 +1,3 @@
-este es un archivo de ayuda
+## este es un archivo de ayuda
+
+ejecutar npm install
